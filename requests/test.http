@@ -1,0 +1,13 @@
+# GET http://localhost:5001
+POST http://localhost:5000/user
+Content-Type: application/json
+
+{
+
+    "email": "user4@user4.gmail.com",
+    "pin_code": "123456"
+}
+
+
+
+# POST http://localhost:5001
